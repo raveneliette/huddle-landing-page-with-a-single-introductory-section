@@ -61,6 +61,8 @@ header .logo {
 .info-container p {
   font-size: 1.115rem;
   margin-top: 1.4rem;
+  line-height: 1.6;
+  margin-right: 0.6rem;
 }
 
 /* Media Queries */
