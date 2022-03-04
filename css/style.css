@@ -24,6 +24,7 @@ body {
   background-repeat: no-repeat;
   min-height: 100vh;
   font-family: "Open Sans", sans-serif;
+  overflow: hidden;
 }
 
 h1 {
@@ -40,7 +41,7 @@ header {
 
 /* Classes */
 .main-container {
-  margin-top: 5.5rem;
+  margin-top: 5.15rem;
 }
 
 /* Header */
