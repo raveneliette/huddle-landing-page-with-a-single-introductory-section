@@ -41,13 +41,14 @@ header {
 
 /* Classes */
 .main-container {
-  margin-top: 5.15rem;
+  margin-top: 5.05rem;
 }
 
 /* Header */
 header .logo-wrapper {
-  width: 200px;
+  max-width: 210px;
 }
+
 /* Info Container */
 .info-container {
   color: #f5f5f5;
