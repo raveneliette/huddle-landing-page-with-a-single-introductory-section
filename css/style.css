@@ -106,6 +106,37 @@ header .logo {
   transform: scale(0.9);
 }
 
+/* Footer */
+.footer {
+  margin-top: 1rem;
+}
+
+.footer .footer-links {
+  margin-left: 1rem;
+}
+
+.footer i {
+  border: 2px solid var(--light-color);
+  color: var(--light-color);
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 38px;
+  transition: all 0.1s ease-in-out;
+}
+
+.footer i:hover {
+  border: 2px solid var(--secondary-color);
+  color: var(--secondary-color);
+}
+
+.footer i:active {
+  border: 2px solid var(--light-color);
+  color: var(--light-color);
+  transform: scale(0.9);
+}
+
 /* Animation */
 @keyframes growslow {
   0% {
