@@ -91,13 +91,20 @@ header .logo {
   margin-top: 1.6rem;
   padding: 1rem;
   width: 200px;
-  transition: all 1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+  animation-name: animatebutton;
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
 }
 
 .info-container a:hover {
   background-color: var(--secondary-color);
   color: var(--light-color);
-  transform: rotateY(360deg);
+  animation: none;
 }
 
 .info-container a:active {
@@ -149,6 +156,26 @@ header .logo {
 
   75% {
     transform: rotateX(20deg);
+  }
+
+  100% {
+    transform: rotateX(0) scale(1);
+  }
+}
+
+@keyframes animatebutton {
+  0% {
+    transform: scale(1);
+  }
+
+  25% {
+    transform: scale(0.98);
+  }
+
+  50% {
+    transform: rotateY(360deg);
+    background-color: var(--secondary-color);
+    color: var(--light-color);
   }
 
   100% {
