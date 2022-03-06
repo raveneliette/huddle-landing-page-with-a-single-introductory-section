@@ -314,4 +314,17 @@ header .logo {
     font-size: 0.9rem;
     line-height: 1.66;
   }
+
+  .footer i:hover {
+    border: 1px solid var(--footer-links);
+  }
+
+  .footer i:active {
+    border: 1px solid var(--light-color);
+  }
+
+  .footer .fa-instagram:active {
+    font-size: 0.9rem;
+    line-height: 1.8;
+  }
 }
