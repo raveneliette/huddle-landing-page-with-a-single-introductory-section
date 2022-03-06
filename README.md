@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: []
-- Live Site URL: []
+- Live Site URL: [https://practical-elion-09d8d0.netlify.app/]
 
 ## My process
 
@@ -41,6 +41,7 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 - CSS Flexbox
+- CSS Animations / Transitions
 
 ### Useful resources
 
