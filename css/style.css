@@ -301,6 +301,10 @@ header .logo {
     padding: 0.8rem;
   }
 
+  .footer {
+    margin-bottom: 2rem;
+  }
+
   .footer i {
     border: 1px solid var(--light-color);
     font-size: 0.7rem;
