@@ -50,6 +50,8 @@ Users should be able to:
 
 - [https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar]
 
+- [https://stackoverflow.com/questions/51683761/how-to-fix-lighthouse-links-do-not-have-a-discernible-name]
+
 ## Author
 
 - Frontend Mentor - [@raveneliette](https://www.frontendmentor.io/profile/raveneliette)
