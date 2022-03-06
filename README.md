@@ -10,6 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -39,6 +40,13 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 - CSS Flexbox
+
+### Useful resources
+
+- [https://stackoverflow.com/questions/12272372/how-to-style-icon-color-size-and-shadow-of-font-awesome-icons] - The idea for adjusting icon sizes
+- [https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll] - Hide scroll bar but still be able to scroll
+
+- [https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar]
 
 ## Author
 
