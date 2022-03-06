@@ -9,6 +9,7 @@ font-family: 'Poppins', sans-serif; 400 600
   --primary-color: hsl(257, 40%, 49%); /* Violet */
   --secondary-color: hsl(300, 69%, 71%); /* Soft Magenta: */
   --light-color: #f5f5f5; /* Grey Lighten */
+  --footer-links: hsl(325, 79%, 65%); /* Soft Magenta (Darker, Adjusted) */
 }
 
 * {
@@ -134,8 +135,8 @@ header .logo {
 }
 
 .footer i:hover {
-  border: 2px solid var(--secondary-color);
-  color: var(--secondary-color);
+  border: 2px solid var(--footer-links);
+  color: var(--footer-links);
 }
 
 .footer i:active {
